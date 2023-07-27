@@ -1,1 +1,1 @@
-# how-to-master-combine-like-a-pro
+# How to master Combine like a Pro
